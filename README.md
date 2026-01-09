@@ -82,3 +82,34 @@ Used the **Online Shoppers Purchasing Intention Dataset**.
 ## 👤 Author
 
 Ansh Kumar Prasad
+
+## 📸 Project Visualizations
+
+### Model Performance
+
+|  **Random Forest Confusion Matrix**   |  **Logistic Regression Confusion Matrix**   |
+| :-----------------------------------: | :-----------------------------------------: |
+| ![RF CM](images/cm_Random_Forest.png) | ![LR CM](images/cm_Logistic_Regression.png) |
+
+### Key Insights
+
+**Correlation Heatmap**
+![Correlation Heatmap](images/eda_heatmap.png)
+
+**Purchase Patterns**
+| PageValues vs Revenue | ExitRates vs Revenue |
+|:---:|:---:|
+| ![PageValues](images/eda_pattern_PageValues_vs_Revenue.png) | ![ExitRates](images/eda_pattern_ExitRates_vs_Revenue.png) |
+
+### Feature Distributions
+
+<details>
+<summary>Click to view Distribution Plots</summary>
+
+|                                                                  |                                                                |
+| :--------------------------------------------------------------: | :------------------------------------------------------------: |
+|            ![Bounce](images/eda_dist_BounceRates.png)            |             ![Exit](images/eda_dist_ExitRates.png)             |
+|          ![PageValues](images/eda_dist_PageValues.png)           | ![Admin Duration](images/eda_dist_Administrative_Duration.png) |
+| ![Product Duration](images/eda_dist_ProductRelated_Duration.png) |                                                                |
+
+</details>
