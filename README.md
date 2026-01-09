@@ -49,8 +49,8 @@ Used the **Online Shoppers Purchasing Intention Dataset**.
 1.  **Clone the repository**:
 
     ```bash
-    git clone https://github.com/YOUR_USERNAME/Customer-purchase-prediction.git
-    cd customer-purchase-prediction
+    git clone https://github.com/Xzone2486/Customer-purchase-prediction.git
+    cd Customer-purchase-prediction
     ```
 
 2.  **Set up Virtual Environment**:
