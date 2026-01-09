@@ -49,7 +49,7 @@ Used the **Online Shoppers Purchasing Intention Dataset**.
 1.  **Clone the repository**:
 
     ```bash
-    git clone https://github.com/YOUR_USERNAME/customer-purchase-prediction.git
+    git clone https://github.com/YOUR_USERNAME/Customer-purchase-prediction.git
     cd customer-purchase-prediction
     ```
 
@@ -81,4 +81,4 @@ Used the **Online Shoppers Purchasing Intention Dataset**.
 
 ## 👤 Author
 
-[Your Name]
+Ansh Kumar Prasad
